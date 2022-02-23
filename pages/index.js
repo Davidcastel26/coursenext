@@ -2,7 +2,7 @@
 
 const MainPage = () => {
     return (<div>
-        The main page bro! 
+        The main PAGE!
     </div>)
 }
 export default MainPage;
